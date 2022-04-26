@@ -31,5 +31,8 @@ WINDOWS PRIVESC CHECK 2
 FGDUMP
 .\fgdump.exe
 OR IF YOU HAVE CREDENTIALS
-.\fgdump.exe -u Admin -p password
+-u Admin -p password
+OR TO DUMP FROM REMOTE MACHINE
+-h <target-ip>            #FOR SINGLE TARGET
+-h hostfile.txt -T 10     #FOR MULTIPLE TARGETS
 =========
