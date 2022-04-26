@@ -1,8 +1,10 @@
 # getenum
 Windows - upload enumeration tools to target <br>
-NOTE: tools are current a/o 26 April 2022
+NOTE: tools are current a/o 26 April 2022 <br>
+<br>
+AMMEND AS APPROPRIATE FOR YOUR NEEDS...
 
-<br><hr>
+<hr>
 
 ## USAGE
 
@@ -11,7 +13,7 @@ USE OF THIS TOOL ASSUMES SHELL ACCESS ON A TARGET WINDOWS MACHINE
 
 ```
 # ON KALI
-impacket-smbserver -smb2support share ../getenum
+impacket-smbserver -smb2support share GetEnumFiles
 
 # ON TARGET WINDOWS SHELL
 mkdir c:\tmp
