@@ -16,6 +16,8 @@ LASAGNE
 MIMIKATZ
 Run 'systeminfo' to find out the processor type
 .\mimikatz64.exe
+OR
+.\mimikatz32.exe
 =========
 POWERUP
 powershell -ExecutionPolicy Bypass
@@ -24,6 +26,8 @@ Invoke-AllChecks
 =========
 WINPEAS
 .\winPEASx64.exe
+OR
+.\winPEASx32.exe
 =========
 WINDOWS PRIVESC CHECK 2
 .\wpc2.exe --audit -a -o report-%COMPUTERNAME%
